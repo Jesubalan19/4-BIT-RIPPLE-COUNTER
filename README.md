@@ -1,4 +1,4 @@
-### EX-11 <p align="center"><b>4-BIT-RIPPLE-COUNTER</b>
+### EX-12 <p align="center"><b>4-BIT-RIPPLE-COUNTER</b>
 
 ## NAME: Jesubalan A
 ## REG NO: 212223240060
